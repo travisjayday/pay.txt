@@ -1,11 +1,11 @@
-total payment w/o deposit	   = 8814.02
+total payment w/o deposit  = 8814.02
 total payment w/o deposit / person = 2203.505
 assuming deposit 		   = 500 
 total payment	 		   = 9314.02
 
 --------- collective status -----------------
 
-month0 due [payed]	= 2073.89 / 2073.89
+month0 due [payed]	    = 2073.89 / 2073.89
 month1 due [pending]	= 0 / 2296.09
 month2 due [pending] 	= 0 / 2222.02
 month3 due [pending] 	= 0 / 2222.02
@@ -20,17 +20,17 @@ month2 [pending]	= 555.50
 month3 [pending]	= 555.51
 
 will receive		= 166.66
-total payed		= 857.97 / 2203.5
+total payed		    = 857.97 / 2203.5
 
 the raiphster
 ---------
 month0 [payed] 		= 691.29 + 166.6 = 857.97
-month1 [pending]	= 401.2
+month1 [pending]	= 399.2
 month2 [pending]	= 555.50
 month3 [pending] 	= 555.51
 
 will receive		= 166.66
-total payed		= 857.97 / 2203.5
+total payed		    = 857.97 / 2201.5
 
 mr. s.penser
 ----------
@@ -40,14 +40,14 @@ month2 [pending]	= 555.51
 month3 [pending] 	= 555.51
 
 will receive		= 0
-total payed		= 0 / 2203.51
+total payed		    = 0 / 2203.51
 
 travlord
 ---------
 month0 [payed]		= 691.29 + 166.66 
-month1 [pending] 	= 401.20
+month1 [pending] 	= 403.20
 month2 [pending]	= 555.51
 month3 [pending] 	= 555.51
 
 will receive		= 166.66
-total payed		= 857.97 / 2203.51
+total payed		    = 857.97 / 2205.51
