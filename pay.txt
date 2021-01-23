@@ -1,5 +1,5 @@
 total payment w/o deposit  = 8814.02
-total payment w/o deposit / person = 2203.50
+total payment w/o deposit / person = 2203.505
 assuming deposit 		   = 500.00
 total payment	 		   = 9314.02
 
